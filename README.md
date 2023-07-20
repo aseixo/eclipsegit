@@ -1,1 +1,1 @@
-### eclipsegit
+### Eclipse & Git application
